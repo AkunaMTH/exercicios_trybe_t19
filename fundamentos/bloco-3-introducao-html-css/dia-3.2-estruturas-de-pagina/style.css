@@ -1,5 +1,6 @@
 body{
-    font-size: 16px
+    font-size: 16px;
+    line-height: 60px;
 }
 h1{
     font-size: 65px;
@@ -9,9 +10,19 @@ h1{
 p{
     font-weight: 600px;
     font-size: 3em;
+    font-style: italic;
 }
 ul{
     color: blue;
+}
+#vermelho{
+    background-color: red;
+}
+#amarelo{
+    background-color: yellow;
+}
+#marrom{
+    background-color: brown;
 }
 .cor-p-ul{
     background-color: grey;
